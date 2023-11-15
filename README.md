@@ -14,6 +14,12 @@
 <li>to run : npm run dev</li>
 </ul>
 
+<h3>Best Practices</h3>
+<ul>
+<li>Give "jsx" extention to the components</li>
+<li>Fuction name should start with upper case</li>
+</ul>
+
 
 
 
