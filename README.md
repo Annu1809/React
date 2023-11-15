@@ -1,13 +1,21 @@
 # React
-A react docs
+
 <h1>A react docs</h1>
 
 
-React Installation
-npm Create vite@latest
-project name - client
-choose React
-Choose javaScript
-cd client
-npm install
-to run : npm run dev
+<h3>React Installation : </h3>
+<ul>
+<li>npm Create vite@latest</li>
+<li>project name - client</li>
+<li>choose React</li>
+<li>Choose javaScript</li>
+<li>cd client</li>
+<li>npm install</li>
+<li>to run : npm run dev</li>
+</ul>
+
+
+
+
+
+
