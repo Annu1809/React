@@ -12,3 +12,5 @@ This is a **React-based Registration Form** that includes validation using **rea
 - **React.js** ⚛️  
 - **React Hook Form** 📋  
 - **Reactstrap (Bootstrap for React)** 🎨
+
+![click here](https://github.com/Annu1809/Project-UI-Gallery/blob/main/forms/Screenshot%202025-02-23%20112529.png)
