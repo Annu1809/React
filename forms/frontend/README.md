@@ -1,8 +1,14 @@
-# React + Vite
+# **React Registration Form with Validation & Editable Table**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React-based Registration Form** that includes validation using **react-hook-form** and a dynamic table to display, update, and manage user records. The form ensures proper data entry with validation rules and provides an interactive UI with **Reactstrap** for a seamless user experience.
 
-Currently, two official plugins are available:
+## **Features**
+✅ **Form Validation** – Uses `react-hook-form` for efficient validation.  
+✅ **Real-Time Data Display** – Submitted records appear in a table below the form.  
+✅ **Edit & Update Records** – Users can modify existing entries directly from the table.  
+✅ **User-Friendly UI** – Styled using `reactstrap` for a modern and responsive design.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Tech Stack**
+- **React.js** ⚛️  
+- **React Hook Form** 📋  
+- **Reactstrap (Bootstrap for React)** 🎨
